@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1RAqGBYlVzcDLtGgBcqyGEG77AvA6Kasf
 """
 
-# import collab
+# import collab library
 from google.colab import drive
 drive.mount('/content/drive')
 
